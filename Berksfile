@@ -41,10 +41,13 @@ cookbook 'solr_app', '~> 0.0.3'
 
 ## Monitoring & Logs
 # cookbook 'collectd-lib', '~> 3.0.1'
+cookbook 'elasticsearch', '~> 1.0.0'
+cookbook 'elkstack', '~> 6.0.2'
+cookbook 'kibana_lwrp', '~> 2.0.5'
 cookbook 'logrotate', '~> 1.9.1'
-# cookbook 'logstash', '~> 0.11.4'
+cookbook 'logstash', '~> 0.11.4'
 # cookbook 'newrelic', '~> 2.12.0'
-# cookbook 'rackspace_monitoring', '~ 1.0.0'
+# cookbook 'rackspace_monitoring'
 cookbook 'rsyslog', '~> 2.0.0'
 
 ## Web

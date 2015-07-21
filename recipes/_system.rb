@@ -28,3 +28,11 @@ include_recipe 'rsyslog'
 # include_recipe 'xml'
 
 include_recipe 'openssh'
+
+node.default['elkstack']['config']['backups']['enabled'] = false
+# node.default['elasticsearch']['allocated_memory'] = ''
+# node['elkstack']['config']['lumberjack_data_bag']['key'] = 'SSL CERT'
+
+include_recipe 'elkstack'
+
+include_recipe 'paramount::kibana'
