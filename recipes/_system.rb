@@ -22,7 +22,8 @@ include_recipe 'ubuntu'
 include_recipe 'sudo'
 # include_recipe 'users'
 
-include_recipe 'rsyslog'
+include_recipe 'rsyslog::server'
+
 # include_recipe 'libyaml'
 # include_recipe 'djbdns::cache'
 # include_recipe 'xml'
