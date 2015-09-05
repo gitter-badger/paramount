@@ -8,7 +8,7 @@ metadata
 
 cookbook 'ark', '~> 0.9.0'
 cookbook 'build-essential'
-cookbook 'chef-solo-search', '~> 0.5.1'
+cookbook "chef-solo-search", :git => "https://github.com/edelight/chef-solo-search"
 cookbook 'chef-sugar', '~> 3.1.0'
 cookbook 'chef-vault', '~> 1.3.0'
 cookbook 'database', '~> 4.0.6'
