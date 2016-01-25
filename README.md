@@ -1,4 +1,8 @@
 [![Build Status](https://travis-ci.org/mburns/paramount.svg?branch=master)](https://travis-ci.org/mburns/paramount)
+[![Coverage Status](https://coveralls.io/repos/github/mburns/paramount/badge.svg?branch=master)](https://coveralls.io/github/mburns/paramount?branch=master)
+[![Code Climate](https://codeclimate.com/github/mburns/paramount/badges/gpa.svg)](https://codeclimate.com/github/mburns/paramount)
+[![Test Coverage](https://codeclimate.com/github/mburns/paramount/badges/coverage.svg)](https://codeclimate.com/github/mburns/paramount/coverage)
+[![Issue Count](https://codeclimate.com/github/mburns/paramount/badges/issue_count.svg)](https://codeclimate.com/github/mburns/paramount)
 
 # Paramount Cookbook
 
@@ -56,3 +60,5 @@ Include `paramount` in your node's `run_list`:
 ## License and Authors
 
 Author:: Michael Burns (michael@mirwin.net)
+
+[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/USERNAME/)
