@@ -61,4 +61,4 @@ Include `paramount` in your node's `run_list`:
 
 Author:: Michael Burns (michael@mirwin.net)
 
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/USERNAME/)
+[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.svg)](https://gratipay.com/mburns/)
